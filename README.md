@@ -22,8 +22,15 @@ The shell is where I run tools and troubleshoot.
 
 ## 🌱 Learning
 
-🐍 Python · 🗃️ SQL · 🔢 NumPy · 🐼 pandas  
-📊 Matplotlib · 🧠 scikit-learn · 🔥 PyTorch
+<p>
+  <img src="assets/learning/python.svg" alt="Python" height="43">
+  <img src="assets/learning/sql.svg" alt="SQL" height="43">
+  <img src="assets/learning/numpy.svg" alt="NumPy" height="43">
+  <img src="assets/learning/pandas.svg" alt="pandas" height="43"><br>
+  <img src="assets/learning/matplotlib.svg" alt="Matplotlib" height="43">
+  <img src="assets/learning/scikitlearn.svg" alt="scikit-learn" height="43">
+  <img src="assets/learning/pytorch.svg" alt="PyTorch" height="43">
+</p>
 
 ## 🔥 My GitHub streak
 
