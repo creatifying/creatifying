@@ -24,6 +24,21 @@ The shell is where I run tools and troubleshoot.
 
 ![Learning tools](assets/learning/strip.svg)
 
+## 🧪 Currently building & exploring
+
+I'm bringing my web development experience into **AI and Data Science**, with a focus on strengthening my Python skills, exploring data analysis and machine learning, and learning how to turn ideas into useful, intelligent applications.
+
+## 🚀 Featured projects
+
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **ClearStamp** | Browser-based metadata cleaner for photos, videos and PDFs, with on-device processing. | [Source](https://github.com/creatifying/clearstamp-metadata-cleaner) · [Live](https://clearstamp-metadata-cleaner.pages.dev/) |
+| **JEE College Predictor** | Data-driven admission exploration using historical JoSAA and CSAB cutoffs. | [Source](https://github.com/creatifying/college-predictor) · [Live](https://collegepredictor-e88.pages.dev/) |
+| **GetPaid** | Self-hosted UPI payment infrastructure with dynamic QR codes, verification and signed webhooks. | [Source](https://github.com/creatifying/getpaid) · [Live](https://getpaid.my.id) |
+| **Ledger** | Personal finance tracker for transactions, loans, repayments and reminders. | [Source](https://github.com/creatifying/ledger) |
+
+[Explore more of my work ↗](https://umang.web.id)
+
 ## 🔥 My GitHub streak
 
 [![Umang’s total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=creatifying&theme=tokyonight&hide_border=true)](https://github.com/creatifying?tab=overview)
