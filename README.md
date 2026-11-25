@@ -23,13 +23,13 @@ The shell is where I run tools and troubleshoot.
 ## 🌱 Learning
 
 <p>
-  <img src="assets/learning/python.svg" alt="Python" height="43">
-  <img src="assets/learning/sql.svg" alt="SQL" height="43">
-  <img src="assets/learning/numpy.svg" alt="NumPy" height="43">
-  <img src="assets/learning/pandas.svg" alt="pandas" height="43"><br>
-  <img src="assets/learning/matplotlib.svg" alt="Matplotlib" height="43">
-  <img src="assets/learning/scikitlearn.svg" alt="scikit-learn" height="43">
-  <img src="assets/learning/pytorch.svg" alt="PyTorch" height="43">
+  <img src="assets/learning/python.svg" alt="Python" width="100" height="88">
+  <img src="assets/learning/sql.svg" alt="SQL" width="100" height="88">
+  <img src="assets/learning/numpy.svg" alt="NumPy" width="100" height="88">
+  <img src="assets/learning/pandas.svg" alt="pandas" width="100" height="88">
+  <img src="assets/learning/matplotlib.svg" alt="Matplotlib" width="100" height="88">
+  <img src="assets/learning/scikitlearn.svg" alt="scikit-learn" width="100" height="88">
+  <img src="assets/learning/pytorch.svg" alt="PyTorch" width="100" height="88">
 </p>
 
 ## 🔥 My GitHub streak
