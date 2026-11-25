@@ -24,18 +24,17 @@ The shell is where I run tools and troubleshoot.
 
 ![Learning tools](assets/learning/strip.svg)
 
-## 🧪 Currently building & exploring
+## <img src="assets/headings/exploring.svg" width="22" height="22" align="texttop" alt=""> Currently building & exploring
 
 I'm bringing my web development experience into **AI and Data Science**, with a focus on strengthening my Python skills, exploring data analysis and machine learning, and learning how to turn ideas into useful, intelligent applications.
 
-## 🚀 Featured projects
+## <img src="assets/headings/projects.svg" width="22" height="22" align="texttop" alt=""> Featured projects
 
 | Project | What it does | Explore |
 | :--- | :--- | :--- |
-| **ClearStamp** | Browser-based metadata cleaner for photos, videos and PDFs, with on-device processing. | [Source](https://github.com/creatifying/clearstamp-metadata-cleaner) · [Live](https://clearstamp-metadata-cleaner.pages.dev/) |
-| **JEE College Predictor** | Data-driven admission exploration using historical JoSAA and CSAB cutoffs. | [Source](https://github.com/creatifying/college-predictor) · [Live](https://collegepredictor-e88.pages.dev/) |
-| **GetPaid** | Self-hosted UPI payment infrastructure with dynamic QR codes, verification and signed webhooks. | [Source](https://github.com/creatifying/getpaid) · [Live](https://getpaid.my.id) |
-| **Ledger** | Personal finance tracker for transactions, loans, repayments and reminders. | [Source](https://github.com/creatifying/ledger) |
+| <img src="assets/projects/clearstamp.svg" width="18" height="18" align="texttop" alt=""> **ClearStamp** | Browser-based metadata cleaner for photos, videos and PDFs, with on-device processing. | [<img src="assets/projects/source.svg" width="14" height="14" align="texttop" alt=""> Source](https://github.com/creatifying/clearstamp-metadata-cleaner) · [<img src="assets/projects/live.svg" width="14" height="14" align="texttop" alt=""> Live](https://clearstamp-metadata-cleaner.pages.dev/) |
+| <img src="assets/projects/college.svg" width="18" height="18" align="texttop" alt=""> **JEE College Predictor** | Data-driven admission exploration using historical JoSAA and CSAB cutoffs. | [<img src="assets/projects/source.svg" width="14" height="14" align="texttop" alt=""> Source](https://github.com/creatifying/college-predictor) · [<img src="assets/projects/live.svg" width="14" height="14" align="texttop" alt=""> Live](https://collegepredictor-e88.pages.dev/) |
+| <img src="assets/projects/getpaid.svg" width="18" height="18" align="texttop" alt=""> **GetPaid** | Self-hosted UPI payment infrastructure with dynamic QR codes, verification and signed webhooks. | [<img src="assets/projects/source.svg" width="14" height="14" align="texttop" alt=""> Source](https://github.com/creatifying/getpaid) · [<img src="assets/projects/live.svg" width="14" height="14" align="texttop" alt=""> Live](https://getpaid.my.id) |
 
 [Explore more of my work ↗](https://umang.web.id)
 
