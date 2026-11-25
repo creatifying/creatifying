@@ -2,6 +2,8 @@
 
 I’m **Umang Chourasia**, a B.Tech student in **Artificial Intelligence and Data Science**. I enjoy building for the web, feel at home in a Linux terminal, and I’m learning Python to explore the data science side of my degree.
 
+**[Explore my portfolio ↗](https://umang-chourasia.pages.dev)** — Projects, experience, and more about me.
+
 ## <img src="assets/headings/toolkit.svg" width="22" height="22" align="texttop" alt=""> My toolkit
 
 ### <img src="assets/headings/web.svg" width="18" height="18" align="texttop" alt=""> Web development
