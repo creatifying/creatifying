@@ -2,9 +2,9 @@
 
 I’m **Umang Chourasia**, a B.Tech student in **Artificial Intelligence and Data Science**. I enjoy building for the web, feel at home in a Linux terminal, and I’m learning Python to explore the data science side of my degree.
 
-## 🧰 My toolkit
+## <img src="assets/headings/toolkit.svg" width="22" height="22" alt=""> My toolkit
 
-### 🌐 Web development
+### <img src="assets/headings/web.svg" width="22" height="22" alt=""> Web development
 
 My JavaScript stack is **MERN**. I use React for the interface, Node.js and Express for the API, and MongoDB for the data.
 
@@ -14,22 +14,23 @@ I also work with HTML, CSS, and JavaScript, plus PHP and Laravel on the backend.
 
 ![HTML, CSS, JavaScript, PHP, and Laravel](https://skillicons.dev/icons?i=html,css,js,php,laravel&theme=dark)
 
-### 🐧 Linux
+### <img src="assets/headings/terminal.svg" width="22" height="22" alt=""> Linux
 
 ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 
 The shell is where I run tools and troubleshoot.
 
-## 🌱 Learning
+## <img src="assets/headings/learning.svg" width="22" height="22" alt=""> Learning
 
 <p>
-  <img src="assets/learning/python.svg" alt="Python" width="100" height="88">
-  <img src="assets/learning/sql.svg" alt="SQL" width="100" height="88">
-  <img src="assets/learning/numpy.svg" alt="NumPy" width="100" height="88">
-  <img src="assets/learning/pandas.svg" alt="pandas" width="100" height="88">
-  <img src="assets/learning/matplotlib.svg" alt="Matplotlib" width="100" height="88">
-  <img src="assets/learning/scikitlearn.svg" alt="scikit-learn" width="100" height="88">
-  <img src="assets/learning/pytorch.svg" alt="PyTorch" width="100" height="88">
+  <img src="assets/learning/python.svg" alt="Python" width="42" height="42" align="middle">
+  <img src="assets/learning/sql.svg" alt="SQL" width="42" height="42" align="middle">
+  <img src="assets/learning/numpy.svg" alt="NumPy" width="42" height="42" align="middle">
+  <img src="assets/learning/pandas.svg" alt="pandas" width="42" height="42" align="middle">
+  <img src="assets/learning/matplotlib.svg" alt="Matplotlib" width="42" height="42" align="middle">
+  <img src="assets/learning/scikitlearn.svg" alt="scikit-learn" width="42" height="42" align="middle">
+  <img src="assets/learning/pytorch.svg" alt="PyTorch" width="42" height="42" align="middle">
+  &nbsp; Learning to explore data and train models.
 </p>
 
 ## 🔥 My GitHub streak

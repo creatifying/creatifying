@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="88" viewBox="0 0 100 88" role="img" aria-labelledby="title">
-  <title id="title">PyTorch</title>
-  <defs>
-    <linearGradient id="surface" x2="0.8" y2="1">
-      <stop stop-color="#62352e"/>
-      <stop offset="1" stop-color="#2f191e"/>
-    </linearGradient>
-  </defs>
-  <rect x=".75" y=".75" width="98.5" height="86.5" rx="17" fill="url(#surface)" stroke="#fc9685" stroke-opacity=".64" stroke-width="1.5"/>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="26" y="10" width="48" height="48"><path fill="#ff755c" d="M100.1 38.3l-9.2 9.2c15.1 15.1 15.1 39.4 0 54.3-15.1 15.1-39.4 15.1-54.3 0-15.1-15.1-15.1-39.4 0-54.3l24-24 3.4-3.4V2L27.8 38.2C7.7 58.3 7.7 90.8 27.8 111s52.6 20.1 72.4 0c20.1-20.2 20.1-52.5-.1-72.7z"/><circle fill="#ff755c" transform="rotate(-88.939 82.069 29.398) scale(.99997)" cx="82.1" cy="29.4" r="6.7"/></svg>
-  <text x="50" y="75" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#ffffff">PyTorch</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><title>PyTorch</title><rect width="48" height="48" rx="10" fill="#242938"/><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="6" y="6" width="36" height="36"><path fill="#ff755c" d="M100.1 38.3l-9.2 9.2c15.1 15.1 15.1 39.4 0 54.3-15.1 15.1-39.4 15.1-54.3 0-15.1-15.1-15.1-39.4 0-54.3l24-24 3.4-3.4V2L27.8 38.2C7.7 58.3 7.7 90.8 27.8 111s52.6 20.1 72.4 0c20.1-20.2 20.1-52.5-.1-72.7z"/><circle fill="#ff755c" transform="rotate(-88.939 82.069 29.398) scale(.99997)" cx="82.1" cy="29.4" r="6.7"/></svg></svg>
